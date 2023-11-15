@@ -1,0 +1,17 @@
+;place;team;team_link;matches;win;draw;lose;goal scored;goal conceded;goal difference;points;matches home;win home;draw home;lose home;goal scored home;goal conceded home;goal difference home;points home;matches away;win away;draw away;lose away;goal scored away;goal conceded away;goal difference away;points away
+0;1;zenit;https://premierliga.ru/about-rpl/clubs/krasnodar;15;9;5;1;24;10;14;32;7;6;1;0;13;4;9;19;8;3;4;1;11;6;5;13
+1;2;pfc-cska;https://premierliga.ru/about-rpl/clubs/zenit;15;9;3;3;30;14;16;30;7;4;1;2;15;8;7;13;8;5;2;1;15;6;9;17
+2;3;spartak;https://premierliga.ru/about-rpl/clubs/dinamo;15;6;7;2;24;19;5;25;7;4;2;1;10;6;4;14;8;2;5;1;14;13;1;11
+3;4;rostov;https://premierliga.ru/about-rpl/clubs/kr-sovetov;15;7;4;4;31;21;10;25;8;6;2;0;23;8;15;20;7;1;2;4;8;13;-5;5
+4;5;akhmat;https://premierliga.ru/about-rpl/clubs/pfc-cska;15;6;7;2;27;20;7;25;7;5;2;0;15;7;8;17;8;1;5;2;12;13;-1;8
+5;6;krasnodar;https://premierliga.ru/about-rpl/clubs/spartak;15;7;3;5;21;22;-1;24;9;6;2;1;14;9;5;20;6;1;1;4;7;13;-6;4
+6;7;orenburg;https://premierliga.ru/about-rpl/clubs/lokomotiv;15;6;6;3;21;19;2;24;8;3;4;1;10;9;1;13;7;3;2;2;11;10;1;11
+7;8;lokomotiv;https://premierliga.ru/about-rpl/clubs/rubin;15;6;4;5;15;20;-5;22;8;2;3;3;7;13;-6;9;7;4;1;2;8;7;1;13
+8;9;dinamo;https://premierliga.ru/about-rpl/clubs/n-novgorod;15;6;3;6;14;14;0;21;8;6;1;1;11;4;7;19;7;0;2;5;3;10;-7;2
+9;10;sochi;https://premierliga.ru/about-rpl/clubs/fakel;15;5;4;6;14;17;-3;19;7;3;2;2;8;6;2;11;8;2;2;4;6;11;-5;8
+10;11;ural;https://premierliga.ru/about-rpl/clubs/rostov;15;4;5;6;23;27;-4;17;8;4;3;1;16;9;7;15;7;0;2;5;7;18;-11;2
+11;12;kr-sovetov;https://premierliga.ru/about-rpl/clubs/ural;15;4;4;7;15;24;-9;16;8;2;3;3;8;11;-3;9;7;2;1;4;7;13;-6;7
+12;13;n-novgorod;https://premierliga.ru/about-rpl/clubs/orenburg;15;3;4;8;16;24;-8;13;7;2;2;3;9;9;0;8;8;1;2;5;7;15;-8;5
+13;14;fakel;https://premierliga.ru/about-rpl/clubs/baltika;15;3;3;9;12;21;-9;12;7;3;2;2;8;8;0;11;8;0;1;7;4;13;-9;1
+14;15;rubin;https://premierliga.ru/about-rpl/clubs/akhmat;15;3;3;9;15;21;-6;12;7;1;2;4;10;10;0;5;8;2;1;5;5;11;-6;7
+15;16;baltika;https://premierliga.ru/about-rpl/clubs/sochi;15;3;1;11;16;25;-9;10;7;2;1;4;10;10;0;7;8;1;0;7;6;15;-9;3
